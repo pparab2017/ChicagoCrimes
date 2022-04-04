@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ChicagoCrimes
+  annotations:
+    github.com/project-slug: pparab2017/ChicagoCrimes
+spec:
+  type: other
+  lifecycle: unknown
+  owner: acme-corp
